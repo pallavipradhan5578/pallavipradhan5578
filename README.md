@@ -13,8 +13,7 @@ I am continually expanding my knowledge in the following areas:
 ## 💞️ Collaboration & Opportunities
 I am actively seeking internships and job opportunities where I can apply my skills in:
 - **Flutter & Dart**: Developing cross-platform applications.
-- **C & C++**: Working on system-level or performance-critical applications.
-- **DSA & Algorithms**: Contributing to projects that require strong problem-solving abilities.
+
 
 I am enthusiastic about collaborating on projects that challenge me and allow me to grow as a developer.
 
