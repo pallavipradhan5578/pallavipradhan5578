@@ -19,8 +19,8 @@ I am enthusiastic about collaborating on projects that challenge me and allow me
 
 ## 📫 How to Reach Me
 Feel free to connect with me through:
-- **LinkedIn**: [Pallavi Pradhan](https://www.linkedin.com/in/pallavipradhan)
-- **Email**: pallavi.pradhan@example.com
+- **LinkedIn**: [Pallavi Pradhan](https://www.linkedin.com/in/pallavi-kumari-67168b316/)
+- **Email**: pallavipradhan5578@gmail.com
 
 ## 😄 Pronouns
 She/Her
